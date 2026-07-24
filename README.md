@@ -6,7 +6,7 @@
 
 ![alt text](https://github.com/filipparekonen/filipparekonen.github.io/blob/main/Untitled.png?raw=true)
 
-![image](https://github.com/filipparekonen/filipparekonen.github.io/blob/main/Untitled.png)
+![image](Untitled.png)
 
 14 cm x 11 cm
 
