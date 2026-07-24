@@ -4,7 +4,7 @@
 
 ### Portfolio
 
-<img src="Untitled.png" width="110" height="140" />
+<img src="Untitled.png" width="220" height="280" />
 
 14 cm x 11 cm
 
