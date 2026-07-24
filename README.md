@@ -1,13 +1,20 @@
-# filipparekonen.github.io
+# Filippa Rekonen
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+[instagram](https://www.instagram.com/catsoup25/)
 
-Portfolio
+### Portfolio
+
+0AD9C41B-8AAA-4004-A013-B6EC84A7ABCB_1_201_a.jpeg 
+14 cm x 11 cm
+oil on paper
+2026
+
+### Shop
+
+### About
+
+contact me:
+filippa.rekonen@icloud.com
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
