@@ -4,12 +4,10 @@
 
 ### Portfolio
 
-![alt text](https://github.com/filipparekonen/filipparekonen.github.io/blob/main/Untitled.png?raw=true)
+<img src="[Untitled.png](https://github.com/filipparekonen/filipparekonen.github.io/blob/main/Untitled.png?raw=true)" width="110" height="140" />
 
 
 <img src="Untitled.png" width="110" height="140" />
-
-![image](Untitled.png)
 
 14 cm x 11 cm
 
