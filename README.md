@@ -4,7 +4,7 @@
 
 ### Portfolio
 
-![alt text][(https://github.com/filipparekonen/filipparekonen.github.io/blob/main/0AD9C41B-8AAA-4004-A013-B6EC84A7ABCB_1_201_a.jpeg?raw=true)
+![alt text](https://github.com/filipparekonen/filipparekonen.github.io/blob/main/0AD9C41B-8AAA-4004-A013-B6EC84A7ABCB_1_201_a.jpeg?raw=true)
 
 14 cm x 11 cm
 
